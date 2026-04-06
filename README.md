@@ -1,17 +1,23 @@
-# mythic_path
+# Mythic Path 🗡️✨
 
-A new Flutter project.
+> *Level up your real life. Turn your daily productivity into an epic Dark Fantasy RPG quest.*
 
-## Getting Started
+**Mythic Path** is a gamified self-development mobile application built with [Flutter](https://flutter.dev/). It transforms mundane daily tasks and habits into engaging RPG quests, complete with a reward system, leveling, and a dark fantasy theme to keep you motivated.
 
-This project is a starting point for a Flutter application.
+## 🚀 Current Status
+**Early Beta Phase** Currently undergoing closed beta testing to evaluate the core gameplay loop, quest mechanics, and UI/UX. Data is currently managed via a local database.
 
-A few resources to get you started if this is your first Flutter project:
+## 🎮 Key Features
+* **Gamified Task Management:** Create daily tasks disguised as "Quests".
+* **RPG Mechanics:** Earn EXP and level up your real-life stats by completing productivity goals.
+* **Dark Fantasy UI/UX:** An immersive, game-like interface to keep users engaged.
+* **Local Storage:** Fast and secure offline progression.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Tech Stack
+* **Framework:** Flutter / Dart
+* **Database:** Local Storage (SQLite/Shared Preferences)
+* **Architecture:** [Isi dengan arsitektur yang kamu pakai, misal: MVVM / Clean Architecture / Provider / Bloc]
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📥 Beta Testing
+To participate in the beta test, download the latest APK here:
+[Link s.id/mythic-path-beta]

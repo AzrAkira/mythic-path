@@ -15,8 +15,8 @@
 
 ## 🛠️ Tech Stack
 * **Framework:** Flutter / Dart
-* **Database:** Local Storage (SQLite/Shared Preferences)
-* **Architecture:** [Isi dengan arsitektur yang kamu pakai, misal: MVVM / Clean Architecture / Provider / Bloc]
+* **State Management:** Riverpod
+* **Local Storage:** Shared Preferences (Key-value storage)
 
 ## 📥 Beta Testing
 To participate in the beta test, download the latest APK here:

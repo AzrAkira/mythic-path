@@ -266,6 +266,7 @@ class DashboardScreen extends ConsumerWidget {
                   }
 
                   return ListView.builder(
+                    padding: const EdgeInsets.only(bottom: 80),
                     itemCount: quests.length,
                     itemBuilder: (context, index) {
                       final quest = quests[index];
